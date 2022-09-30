@@ -1,6 +1,9 @@
 ***settings***
 Library     Browser
 
+Test Setup      Start Test
+Test Teardown   Finish Test
+
 ***Variables***
 ${slogan}       Conectando colecionadores de figurinhas da copa.
 
